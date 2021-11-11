@@ -19,8 +19,5 @@ public class InfoEmpleado
         vh= Integer.parseInt(leer.readLine());
         total=vh*ht;
         System.out.println("El nombre del empleado es: "+Nombre+"y el total a pagar es:"+total);
-
-
-
     }
 }
